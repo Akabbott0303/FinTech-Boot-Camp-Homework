@@ -2,11 +2,11 @@
 
 ## Overview and Origin
 
-* Name of company
+* Lemonade Insurance Company
 
-* When was the company incorporated?
+* Lemonade was founded in 2015 and went public in 2020. 
 
-* Who are the founders of the company?
+* Daniel Schreiber, a lawyer by training who had also dabbled in internet security, was looking for an opporturnity for a tech start-up and felt that the insurance industy needed some disruption.  He teamed up with software coder Shai Winninger to sketch out their idea for a new kind of insurance company.  They brought on Ty Sagalow, an insurance insider, to contribute industry knowledge.
 
 * How did the idea for the company (or project) come about?
 
