@@ -6,19 +6,20 @@ A well-known saying asserts that the only sure things in life are death and taxe
 
 Lemonade was founded in 2015 by Daniel Schreiber and Shai Winninger.  Schreiber is an attorney by training and had also started a start-up internet security firm.  He was looking for an opporturnity for a new tech start-up and believed that the insurance indusrty was perfect for tech disruption.  He teamed up with Winninger, a  software coder to sketch out an idea for a new kind of insurance company.  The qualities they identified for their ideal insurance company were low premiums, ease of doing businses, and trust worthiness.  Neither Schreiber nor Winninger had any insurance experience.  They considered their status as industry outsiders a plus but recognized the need for some expertise within the insurance domain.  So they brought on Ty Sagalow, an insurance insider, to contribute industry knowledge. 
 
-Lemondae started writing homeowners and renters policies in 2017 and later expanded to writing pet insurance and life insurance.  The company is currently working on an auto insurance product offering.  The timeline for the auto insurance product is unknown.
+Lemondae started writing homeowners and renters policies in 2017 and later expanded to writing pet insurance and life insurance.  The company takes 25% of premiums to cover administration costs and fees and 75% of premiums to pay claims.  Anything left over is donated to charity.  According to its website, Lemonade has donated $2,303,381.24 to charity.
 
 Lemonade has raised a total of $480 million from groups such as SoftBank, GV (Alphabet), Thrive Capital, Allianz, General Catalyst, and OurCrowd.  Its current funding is in the secondary market.  The company went public on the New York stock exchange in 2020.
 
 ## Business Activities:
 
-To overcome the time-consuming process of writing policies and settling claims, Lemonade makes heavy use of technology on its website and mobile app.  When a customer visits the Lemonade website or mobile app, he or she can obtain a quote using Maya, Lemonade's artificial intellgence bot.  Maya asks a series of questions and uses the data gathered to return a quote within minutes.  Behind the seens, Lemonade used machine leanrning to gather various data points about the potential customers.  The company has not clarified what these datat points are.  After Maya returns a quote, a graphical representaiton shows what the policy will cover.  There are optional endorsements a customer can add to his or her policy.  
+To overcome the time-consuming process of writing policies and settling claims, Lemonade makes heavy use of technology on its website and mobile app.  When a customer visits the Lemonade website or mobile app, he or she can obtain a quote using Maya, Lemonade's artificial intellgence bot.  Maya asks a series of questions and uses the data gathered to return a quote within 90 seconds.  Behind the seens, Lemonade used machine leanrning to gather various data points about the potential customers.  The company has not clarified what these datat points are.  After Maya returns a quote, a graphical representaiton shows what the policy will cover.  There are optional endorsements a customer can add to his or her policy.  
 
-Policy management is done through the Lemondae app, including filing claims.  Another AI bot, named Jim, is used in the claims process.  In filing a claim, customers upload a video of themselves to the app.  The AI uses facial recognition technology and runs machine learning algorithms to analyze the video to detect potential fraud.  If potential fraud is detected, the claim is turned over to a human for investigation.  If the AI does not detect the possibility of fraud, the app settle the claim and money is deposited into the insured's linked bank account.  
+Policy management is done through the Lemondae app, including filing claims.  Another AI bot, named Jim, is used in the claims process.  In filing a claim, customers upload a video of themselves to the app.  The AI uses facial recognition technology and runs machine learning algorithms to analyze the video to detect potential fraud.  If potential fraud is detected, the claim is turned over to a human for investigation.  If the AI does not detect the possibility of fraud, the app settle the claim and money is deposited into the insured's linked bank account.  About 30% of claims filed with Lemonade are handled fully electronically. 
 
 Businses who might have need to offer their customers access to Lemonde, such as insurance brokers and financial planners, can request access to the company's API for integration with an existing website.  
 
-* Lemonade has been described by Forbes as "Millennial-friendly."  The company counted 425,000 customers, and 75% of them were under 35.  Quite simply, the advantage offered by Lemonade is technology.  The company utilizes technology at the start of the insurance buying process and throughout the life cycle of the policies it writes.  
+* Lemonade has been described by Forbes as "Millennial-friendly."  The company counted 425,000 customers, and 75% of them were under 35.  Also first time insurance buyers.  Quite simply, the advantage offered by Lemonade is technology.  The company utilizes technology at the start of the insurance buying process and throughout the life cycle of the policies it writes.  
+* 
 *  Is there any information about the market size of this set of customers?  0.1% share of homeowners and renters combined 
 
 
@@ -28,14 +29,14 @@ Businses who might have need to offer their customers access to Lemonde, such as
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-* What are the other major companies in this domain? Esurance (owned by Allstate), Insurify, Root Insurance, Clearcover, Metromile
+* What are the other major companies in this domain? Esurance (owned by Allstate), Insurify, Root Insurance, Clearcover, Metromile, Kin Insurance, 
 
 
 ## Results
 
 * What has been the business impact of this company so far?
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  The gold standard rating of an insurance company's financial strength is an AM Best Rating.  AM Best has not yet rated Lemonade.  Demotech, Inc., has given Lemonade an A "Exceptional" financial stability rating.
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  The gold standard rating of an insurance company's financial strength, its ability to pay claims, is an AM Best Rating.  AM Best has not yet rated Lemonade.  Demotech, Inc., has given Lemonade an A "Exceptional" financial stability rating.
 
 Lemonade wrote its first policies in 2017.  It closed the year with a loss ratio (paid claims divided by earned premium) of 166%, well above the industry norm of 65% to 70%.  As Lemonade's experience grew, it adjusted its practices and reduced its loss ratio to 71% in 2020.  The loss ratio bumped back up, to 121% in the first quarter of 2021 but dropped to 74% in the second quarter of 2021.  
 
@@ -43,7 +44,7 @@ Lemonade wrote its first policies in 2017.  It closed the year with a loss ratio
 
 
 * Lemonade is going to be introducing an auto insurance product soon.  Shai Wininger, COO and co-founder of Lemonade, states that the company's auto insurance produce (will use technology to handle emergencies and pay claims fast, will offer great prices to safe drivers, and will be especially attractive to drivers of EVs (electric  vehicles) and environment-friendly cars." 
-* How is your company performing relative to competitors in the same domain?  At the close of 2020, Lemonade's customer count was over 1 million.
+* How is your company performing relative to competitors in the same domain?  At the close of 2020, Lemonade's customer count was over 1 million.  If it can continue to grow, the company could be a big disrupter in the insurance market.  
 
 
 ## Recommendations
@@ -73,6 +74,10 @@ https://www.investopedia.com/lemonade-car-insurance-a-new-offering-from-the-ai-u
 https://www.investopedia.com/best-digital-insurance-5069849
 
 https://www.fool.com/investing/2021/08/08/is-lemonade-stock-a-buy/
+
+https://www.fool.com/investing/2021/07/27/lemonade-pay-attention-to-insurtech-challenger/
+
+https://www.nerdwallet.com/blog/insurance/lemonade-insurance-review/
 
 https://www.vox.com/recode/22455140/lemonade-insurance-ai-twitter
 
