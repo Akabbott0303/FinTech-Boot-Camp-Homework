@@ -10,7 +10,7 @@ Lemondae started writing homeowners and renters policies in 2017 and later expan
 
 Lemonade has raised a total of $480 million from groups such as SoftBank, GV (Alphabet), Thrive Capital, Allianz, General Catalyst, and OurCrowd.  Its current funding is in the secondary market.  The company went public on the New York stock exchange in 2020.
 
-## Business Activities:
+## Business Activities
 
 To overcome the time-consuming process of writing policies and settling claims, Lemonade makes heavy use of technology on its website and mobile app.  When a customer visits the Lemonade website or mobile app, he or she can obtain a quote using Maya, Lemonade's artificial intellgence bot.  Maya asks a series of questions and uses the data gathered to return a quote within 90 seconds.  Behind the seens, Lemonade used machine leanrning to gather various data points about the potential customers.  The company has not clarified what these datat points are.  After Maya returns a quote, a graphical representaiton shows what the policy will cover.  There are optional endorsements a customer can add to his or her policy.  
 
@@ -23,13 +23,13 @@ Businses who might have need to offer their customers access to Lemonde, such as
 *  Is there any information about the market size of this set of customers?  0.1% share of homeowners and renters combined 
 
 
-## Landscape:
+## Landscape
 
-* Lemondade is in the InsurTech domain of FinTech.
+Over the past 10 years, insurance companies have made significant improvements in technology.  Carriers have upgraded aging websites and rating systems and introduced mobile apps.  Newer carrier rating systems make use of integration with information sources, such as LexisNexis, state department of motor vehicle systems, and county appraisal district data, to pull customer data into a quote.  Auto insurance carriers also offer telematics programs that use a mobile app and/or a "dongle," which is connected to the computer system in the customer's vehicle, to monitor insured driving habits and customize the rate.  The J.D. Power 2020 U.S. Insurance Digital Experience Study found that "insurers have made across-the-board improvements in clarity of information, but many still struggle with the balance of too much information and a minimalist approach."  
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+Lemonade is working to cement itself as a player in the insurance domain, relying heavily on technology to do so.  As an InsurTech company, it uses technology to provide a minimalist approach in terms of quick quoting with as little input on the customer end as possible and much data mining on the backend of the process.  Lemonade has also leveraged technology to simplify and speed up the claims process.
 
-* What are the other major companies in this domain? Esurance (owned by Allstate), Insurify, Root Insurance, Clearcover, Metromile, Kin Insurance, 
+Other all digital carriers are competing for their piece of the market share pie.  Esurance (owned by Allstate), Insurify, Root Insurance, Clearcover, Metromile, and Kin Insurance are a few of the competitors on the property and casualty side.  Traditional insurers are also making heavy use of technology to improve their operations.  State Auto Insurance, a regional carrier, has an all digital platform.  Even giants like Travelers have robust websites, mobile apps, and make use of telematics and data mining.
 
 
 ## Results
@@ -72,6 +72,8 @@ https://www.iii.org/fact-statistic/facts-statistics-industry-overview#Property/C
 https://www.investopedia.com/lemonade-car-insurance-a-new-offering-from-the-ai-upstart-insurer-warming-its-engines-5180599
 
 https://www.investopedia.com/best-digital-insurance-5069849
+
+https://www.jdpower.com/business/press-releases/2020-insurance-digital-experience-study
 
 https://www.fool.com/investing/2021/08/08/is-lemonade-stock-a-buy/
 
